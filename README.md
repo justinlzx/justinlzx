@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justinlzx
 - 👀 I’m interested in software engineering and machine learning
-- 🌱 I’m currently learning python, SQL, and machine learning models. 
+
 
 
 <!---
